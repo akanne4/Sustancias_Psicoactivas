@@ -1,0 +1,15 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Productos más vendidos
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-slides pager>
+    <ion-slide *ngFor="let producto of productosMasVendidos">
+      <img [src]="producto.imagen">
+    </ion-slide>
+  </ion-slides>
+</ion-content>

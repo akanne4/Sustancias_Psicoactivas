@@ -1,0 +1,36 @@
+[
+  {
+    "id": "524",
+    "bestSeller": true,
+    "nombre": "Camiseta con cuello en V",
+    "descripcion": "Nuestra camiseta de algodón orgánico, con su cintura ligeramente ajustada y elegante cuello en V, está diseñada para ser más plana. ¡Querrás uno en cada color!",
+    "precio": "$17.000",
+    "imagen": "./assets/imgs/1.jpg",
+    "genero": "Mujer"
+  },
+  {
+    "id": "483",
+    "nombre": "Pantalones elásticos",
+    "descripcion": "Ya sea bailando samba, dominando una pose de yoga o escalando el muro de escalada, nuestros pantalones elásticos de baile, hechos de 80% algodón orgánico y 20% Lycra, son los pantalones de entrenamiento más versátiles y cómodos que jamás tendrás el placer de llevar.",
+    "precio": "$55.000",
+    "imagen": "./assets/imgs/2.jpg",
+    "genero": "Unisex"
+  },
+  {
+    "id": "500",
+    "nombre": "Chaqueta térmica",
+    "descripcion": "Nuestra chaqueta de polar térmica, está cepillada en ambos lados para una suavidad y una calidez extremas. Esta chaqueta de peso medio es versátil durante todo el año y se puede usar con capas para la temporada de invierno.",
+    "precio": "$60.000",
+    "imagen": "./assets/imgs/3.jpg",
+    "genero": "Unisex"
+  },
+  {
+    "id": "510",
+    "bestSeller": true,
+    "nombre": "Camiseta sin mangas",
+    "descripcion": "Este tanque versátil se puede usar en el gimnasio, debajo de un blazer o durante un día al sol. Hecho de nuestra mezcla patentada de bambú orgánico y algodón, nuestro tanque ultrasuave nunca deja de sentirse suave, incluso cuando olvida el suavizante de telas.",
+    "precio": "$22.000",
+    "imagen": "./assets/imgs/4.jpg",
+    "genero": "Mujer"
+  }
+]
